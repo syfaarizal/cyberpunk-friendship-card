@@ -18,7 +18,7 @@ Open the card to reveal a playful, heartfelt message.
 
 > No external JS dependencies; only Google Fonts for typography.
 
-## 🚀 How to Use
+## 🚀 How to Usee
 1. Download or clone this repository.
 2. Open `index.html` in your web browser.
 3. Click the card (or press `Space`/`Enter`) to flip it.
